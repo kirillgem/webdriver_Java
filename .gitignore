@@ -1,0 +1,4 @@
+﻿# JetBrains Rider
+.idea/
+target/
+*.sln.iml
